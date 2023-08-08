@@ -3,7 +3,7 @@
 My name is Leon Alexander Akkad (as you might have guessed) and I am:
 - 👨‍🎓 currently studying [Artificial Intelligence](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/) at [Johannes Kepler University](https://www.jku.at/en) in Linz.
 - 🏢 working on a ML project
-- 🐕 taking care of dog(s)
+- 🐕 taking care of dogs
 
 <!--
 **LeonAlexanderAkkad/LeonAlexanderAkkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
