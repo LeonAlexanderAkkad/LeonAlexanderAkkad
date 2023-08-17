@@ -12,7 +12,7 @@ My name is Leon Alexander Akkad and I am:
 ## Tools & Skills & Interests
 
 ```py
-class Leon:
+class Leon(Human):
 
     def __init__(self):
         self.code = [Python, C++, HTML5, CSS]
@@ -25,9 +25,9 @@ class Leon:
 ## Contact
 
 You can contact me using one of the following methods: <br>
-GitHub: [![GitHub LeonAlexanderAkkad](https://img.shields.io/github/followers/LeonAlexanderAkkad?label=follow&style=social)](https://github.com/LeonAlexanderAkkad) <br>
-Email: <a href="mailto:leon.akkad@jku.at" target="_blank">leon.akkad@jku.at</a> <br>
-Discord: <a href="https://www.discordapp.com/users/531195537450336266" target="_blank"> paradox.66 </a>
+GitHub: <a href=https://github.com/LeonAlexanderAkkad> <img alt="GitHub followers" src="https://img.shields.io/github/followers/LeonAlexanderAkkad?label=Follow&style=social"> </a> <br>
+Email: <a href="mailto:leon.akkad@jku.at" target="_blank"> <img alt="Mail Badge" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white"> </a> <br>
+Discord: <a href="https://www.discordapp.com/users/531195537450336266" target="_blank"> <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-%237289da?logo=discord&logoColor=white"> </a>
 
 
 <!--
