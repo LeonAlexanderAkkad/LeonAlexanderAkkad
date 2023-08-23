@@ -4,7 +4,7 @@
 ## About Me
 
 My name is Leon Alexander Akkad and I am:
-- currently studying <a href="https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/" target="_blank"> Artificial Intelligence </a> at <a href="https://www.jku.at/en" target="_blank"> Johannes Kepler University </a> in Linz 👨‍🎓
+- currently studying <a href="https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/"> Artificial Intelligence </a> at <a href="https://www.jku.at/en"> Johannes Kepler University </a> in Linz 👨‍🎓
 - a Teaching Assistant in AI courses 📃
 - (probably) working on some ML project 🤖
 - taking care of my dogs 🐕
@@ -26,8 +26,8 @@ class Leon(Human):
 
 You can contact me using one of the following methods: <br>
 GitHub: <a href=https://github.com/LeonAlexanderAkkad> <img alt="GitHub followers" src="https://img.shields.io/github/followers/LeonAlexanderAkkad?label=Follow&style=social"> </a> <br>
-Email: <a href="mailto:leon.akkad@jku.at" target="_blank"> <img alt="Mail Badge" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white"> </a> <br>
-Discord: <a href="https://www.discordapp.com/users/531195537450336266" target="_blank"> <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-%237289da?logo=discord&logoColor=white"> </a>
+Email: <a href="mailto:leon.akkad@jku.at"> <img alt="Mail Badge" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white"> </a> <br>
+Discord: <a href="https://www.discordapp.com/users/531195537450336266"> <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-%237289da?logo=discord&logoColor=white"> </a>
 
 
 <!--
