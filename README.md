@@ -4,7 +4,7 @@
 ## About Me
 
 My name is Leon Alexander Akkad and I am:
-- currently studying <a href="https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/"> Artificial Intelligence</a> at <a href="https://www.jku.at/en"> Johannes Kepler University </a> in Linz 👨‍🎓
+- currently studying <a href="https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/"> Artificial Intelligence</a> at <a href="https://www.jku.at/en"> Johannes Kepler University</a> in Linz 👨‍🎓
 - a Teaching Assistant in AI courses 📃
 - (probably) working on some ML project 🤖
 - taking care of my dogs 🐕
