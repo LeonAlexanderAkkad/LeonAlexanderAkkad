@@ -16,9 +16,9 @@ class Leon(Human):
 
     def __init__(self):
         self.code = [Python, Java, C++, HTML5, CSS]
-        self.tools = [PyCharm, Jupyter Notebook, Windows, Linux, Git, LaTeX, MSOffice]
+        self.tools = [PyCharm, IntelliJ, Jupyter Notebook, Windows, macOS, Git, LaTeX, MSOffice]
         self.skills = [MachineLearning, DataScience, ProjectManagement]
-        self.interests = [AI, Tech, Games, Movies, Fitness, Dogs]
+        self.interests = [AI, Tech, Games, Movies, Anime, Manga, Fitness, Dogs]
                     
 ```
 
