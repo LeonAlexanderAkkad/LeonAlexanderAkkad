@@ -15,8 +15,9 @@ My name is Leon Alexander Akkad and I am:
 class Leon(Human):
 
     def __init__(self):
+        super().__init__()
         self.code = [Python, Java, C++, HTML5, CSS]
-        self.tools = [PyCharm, IntelliJ, Jupyter Notebook, Windows, macOS, Git, LaTeX, MSOffice]
+        self.tools = [PyCharm, IntelliJ, Jupyter Notebook, Mac, Windows, Git, LaTeX, MSOffice]
         self.skills = [MachineLearning, DataScience, ProjectManagement]
         self.interests = [AI, Tech, Games, Movies, Anime, Manga, Fitness, Dogs]
                     
